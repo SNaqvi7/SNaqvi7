@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saba-Naqvi
+- 👋 Hi, I’m @Saba
 - 👀 I’m interested in Data Analysis work
 - 🌱 I’m currently learning Data Analyst
 - 💞️ I’m looking to collaborate on getting work in Data analysis field
