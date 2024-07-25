@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analyst
 - 💞️ I’m looking to collaborate on getting work in Data analysis field
 - 📫 How to reach me through linkedin and email
-- 😄 Pronouns:Saba Naqvi
+- 😄 Pronouns:Saba 
 - ⚡ Fun fact:Outing
 
 <!---
