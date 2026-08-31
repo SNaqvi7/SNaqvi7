@@ -1,4 +1,4 @@
-Saba Naqvi <sabasjee@gmail.com>
+Saba Naqvi
 # Hi, I'm Saba 👋
 ### 📊 Aspiring Data Analyst | SQL | Excel | Tableau | Power BI | R
 I’m an aspiring Data Analyst passionate about transforming raw data into clear, actionable insights. I enjoy working with data to identify trends, solve problems, and support data-driven decision-making.
