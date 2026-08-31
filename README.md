@@ -1,6 +1,6 @@
 # Hi,👋
 ### 📊 Data Analyst | SQL | Excel | Tableau | Power BI | R
-I’m an aspiring Data Analyst passionate about transforming raw data into clear, actionable insights. I enjoy working with data to identify trends, solve problems, and support data-driven decision-making.
+I’m Data Analyst passionate about transforming raw data into clear, actionable insights. I enjoy working with data to identify trends, solve problems, and support data-driven decision-making.
 
 ### 🛠️ Technical Skills
 - SQL: Big-Query, SQL Server
