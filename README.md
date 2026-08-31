@@ -24,7 +24,7 @@ I’m an aspiring Data Analyst passionate about transforming raw data into clear
 🔹 SQL Data Analysis Projects
 
 ### 🤝 Open to
-- Entry-level Data Analyst opportunities
+- Junior Data Analyst opportunities
 - Data Analytics projects
 - Collaboration and networking
 
