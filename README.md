@@ -1,5 +1,5 @@
 # Hi,👋
-### 📊 Data Analyst | SQL | Excel | Tableau | Power BI | R
+### 📊 Data Analyst | SQL | Excel | Tableau | Python | R | AI Data Scientist | Matplotlib | Seaborn | Machine Learning |
 I’m Data Analyst passionate about transforming raw data into clear, actionable insights. I enjoy working with data to identify trends, solve problems, and support data-driven decision-making.
 
 ### 🛠️ Technical Skills
@@ -10,7 +10,7 @@ I’m Data Analyst passionate about transforming raw data into clear, actionable
 - **Analytics:** Data Cleaning, Data Analysis, Statistics, Data Visualization
 - **AI Data Science:** Scikit Learn-Linear Regression, Machine Learning
 - **Pandas and NumPy:** Transforming, structuring, and preparing raw data using libraries
-- **Machine Learning:** Understanding supervised and unsupervised learning algorithms (linear regression, decision trees, clustering) via scikit-learn)
+- **Machine Learning:** Understanding supervised and unsupervised learning algorithms (linear regression, decision trees, clustering) via scikit-learn), TensorFlow
 - **Data Visualization:** Building clear charts, Matplotlib or Seaborn.
 
 
@@ -23,13 +23,19 @@ I’m Data Analyst passionate about transforming raw data into clear, actionable
 ### 📂 Featured Projects
 🔹 Bella-beat Wellness Data Analysis 
 🔹 Sales Data Analysis 
-🔹 Customer Churn Analysis 
-🔹 Pizza Price Analysis
 🔹 SQL Data Analysis Projects
+🔹 Customer Churn Analysis 
+🔹 Pizza Price Analysis 
+🔹 Helmet Detection by Using CNN Model Training - Data Science
+🔹 NEWS SUMMARY 
+🔹 Kmean Clustering (unsupervised machine Learning algorithm)
+🔹 Chatbot Project
+
+
 
 ### 🤝 Open to
 - Junior Data Analyst opportunities
-- Junior AI Data Scientist
+- Junior AI Data Scientist opportunities 
 - Data Analytics projects
 - AI Data Science Projects 
 - Collaboration and networking
