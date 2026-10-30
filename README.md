@@ -18,7 +18,8 @@ I’m Data Analyst passionate about transforming raw data into clear, actionable
 - Building real-world Data Analytics projects
 - Strengthening my SQL and data visualization skills
 - Creating portfolio projects using real-world datasets
-- Looking for opportunities to grow as a Data Analyst
+- Building real-world AI-Data Science projects
+- Looking for opportunities to grow as a Data Analyst/AI Data Scientist
 
 ### 📂 Featured Projects
 🔹 Bella-beat Wellness Data Analysis 
