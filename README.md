@@ -29,7 +29,9 @@ I’m Data Analyst passionate about transforming raw data into clear, actionable
 
 ### 🤝 Open to
 - Junior Data Analyst opportunities
+- Junior AI Data Scientist
 - Data Analytics projects
+- AI Data Science Projects 
 - Collaboration and networking
 
 ### 📫 Connect With Me
