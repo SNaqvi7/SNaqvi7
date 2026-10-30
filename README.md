@@ -8,6 +8,11 @@ I’m Data Analyst passionate about transforming raw data into clear, actionable
 - **Programming:** R, RStudio
 - **Spreadsheets:** Microsoft Excel, Google Sheets
 - **Analytics:** Data Cleaning, Data Analysis, Statistics, Data Visualization
+- **AI Data Science:** Scikit Learn-Linear Regression, Machine Learning
+- **Pandas and NumPy:** Transforming, structuring, and preparing raw data using libraries
+- **Machine Learning:** Understanding supervised and unsupervised learning algorithms (linear regression, decision trees, clustering) via scikit-learn)
+- **Data Visualization:** Building clear charts, Matplotlib or Seaborn.
+
 
 ### 📚 Currently
 - Building real-world Data Analytics projects
